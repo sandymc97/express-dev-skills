@@ -1,8 +1,26 @@
 body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
+  font: 5vmin "Lucida Grande", Helvetica, Arial, sans-serif;
+  margin: 20vmin;
+  padding-left: 10vmin;
+  background-color: rgba(100,225,100, 0.2);
+  font-family:Impact, Haettenschweiler, 'Arial Narrow Bold', sans-serif;
+  font-size: 5vmin;
+}
+h1 {
+  font-family: 'Monofett', monospace;
+  font-size: 12vmin;
+}
+a {
+  color: #157a3c;
+  font-size: 6vmin ;
+  font-family:'Courier New', Courier, monospace ;
 }
 
-a {
-  color: #00B7FF;
+div {
+  background-color: rgba(217, 218, 219, 0.7);
+  justify-content: center;
+  align-items: center;
+  padding: 4vmin;
+  text-align: center;
+  border-radius: 3vmin;
 }
