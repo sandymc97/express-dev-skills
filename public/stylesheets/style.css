@@ -24,3 +24,28 @@ div {
   text-align: center;
   border-radius: 3vmin;
 }
+.delete-form {
+  display: inline-block;
+  margin-right: 10px;
+
+}
+	
+.delete-form button {
+  color: rgb(196, 6, 6);
+  height: 4vmin;
+  width: 4vmin;
+  border-radius: 1vmin;
+  background-color:  rgba(217, 218, 219, 0.7);
+  font-size: 3vmin;
+  text-align: center;
+  justify-content: center;
+  border: 0.2vmin solid #157a3c;
+}
+	
+li {
+  list-style: none;
+  background-color: rgba(96, 122, 99, 0.211);
+  border: 0.05vmin solid #0d4121d8;
+  padding: 2vmin;
+  border-radius: 1vmin;
+}
